@@ -1,0 +1,12 @@
+/* Sample CSS example which is used in login.component.html */
+label {
+    font-family: 'Arial Black', 'monospace';
+}
+button {
+    font-family: 'sans-serif';
+    font-size: 30px;
+}
+body,
+div {
+    background: lightgreen;
+}
